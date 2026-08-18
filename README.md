@@ -23,11 +23,11 @@
     <tr>
       <td valign="top">
         <ul>
-          <li>🔭 <b>Currently focusing on:</b> Building and optimizing projects like <b>CPT</b> and <b>ALM</b>.</li>
+          <li>🔭 <b>Currently focusing on:</b> Building and optimizing projects like <b>Point of Sales</b> and <b>Customer Portal</b>.</li>
           <li>🌱 <b>Deep diving into:</b> The architectural differences and performance trade-offs between <b>Flutter</b> and <b>React Native</b>.</li>
           <li>💼 <b>Experience:</b> 7+ years of bringing mobile solutions to life.</li>
           <li>💻 <b>Workspace:</b> Writing robust code on a MacBook M1.</li>
-          <li>📫 <b>How to reach me:</b> [Tulis Email/LinkedIn Kamu]</li>
+          <li>📫 <b>How to reach me:</b>linkedin.com/in/erfolgi/</li>
         </ul>
       </td>
     </tr>
